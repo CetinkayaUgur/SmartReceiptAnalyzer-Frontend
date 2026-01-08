@@ -1,6 +1,6 @@
 # Smart Receipt Analyzer (Frontend)
 
-![Project Status](https://img.shields.io/badge/status-prototype-orange) ![React](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-3.4-sky)
+![Project Status](https://img.shields.io/badge/status-prototype-orange) ![React](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 
 ## 📖 Overview
 
