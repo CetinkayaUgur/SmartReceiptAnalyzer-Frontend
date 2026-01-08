@@ -37,7 +37,6 @@ This repository contains the **Frontend** architecture of the project, focusing 
 
 ### 1. Dashboard Overview
 ![Dashboard Screenshot](./screenshots/dashboard.jpeg)
-*(Place your screenshot in a 'screenshots' folder and update this path)*
 
 ### 2. OCR Analysis
 ![OCR Modal Screenshot](./screenshots/analysis.jpeg)
